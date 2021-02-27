@@ -1,0 +1,93 @@
+{
+  "mains": [
+    {
+      "name": "Hamburger",
+      "description": "Grilled prime Angus beef patty topped with sautéed onions, melted cheddar cheese, crisp lettuce, a fresh tomato slice, tangy pickles and our classic sauce",
+      "price": "22"
+    },
+    {
+      "name": "Onion Burger",
+      "description": "Smashed beef patty topped with Onion, melted cheddar cheese served with fries on the side ",
+      "price": "12"
+    },
+    {
+      "name": "Chicken Burger",
+      "description": "Your choice of grilled or breaded chicken breast topped with crisp lettuce, a fresh tomato slice, tangy pickles and aioli sauce. ",
+      "price": "15"
+    },
+    {
+      "name": "Steak n Fries",
+      "description": "Our tender grilled steak soaked in a special herb sauce. Served with French fries and baguette slices",
+      "price": "25"
+    },
+    {
+      "name": "Classic Steak",
+      "description": "Tender grilled beef fillet served with grilled fresh mushrooms, steamed broccoli and carrots, creamy pepper sauce and with your choice of mashed potatoes, skin-on fries or four cheese pasta",
+      "price": "30"
+    },
+    {
+      "name": "Chicken Kebab",
+      "description": "Chunks of tender chicken breast with onions and peppers on a skewer.",
+      "price": "12"
+    },
+    {
+      "name": "Beef Kebab",
+      "description": "Chunks of beef with onions and peppers on a skewer",
+      "price": "15"
+    }
+  ],
+  "sides": [
+    {
+      "name": "Fries",
+      "price": "5"
+    },
+    {
+      "name": "Onion Rings",
+      "price": "4"
+    },
+    {
+      "name": "Buffelo Wings",
+      "price": "6"
+    },
+    {
+      "name": "BBQ Wings",
+      "price": "6"
+    },
+    {
+      "name": "Chicken Balls",
+      "price": "6"
+    },
+  
+    {
+      "name": "Salad",
+      "price": "5"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Soft Drink",
+      "price": "3",
+      "category": "drink"
+    },
+    {
+      "name": "Orange Juice",
+      "price": "2",
+      "category": "drink"
+    },
+    {
+      "name": "Iced Tea",
+      "price": "4",
+      "category": "drink"
+    },
+    {
+      "name": "Coffee",
+      "price": "5",
+      "category": "drink"
+    },
+    {
+      "name": "Water (1L)",
+      "price": "1",
+      "category": "drink"
+    }
+  ]
+}
